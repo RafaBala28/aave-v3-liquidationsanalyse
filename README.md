@@ -1,7 +1,9 @@
-# Analyse von Liquidationen im Aave-V3-Protokoll
+# Bachelorarbeit
 
-Dieses Repository enthält die empirische Analyse für die Bachelorarbeit 
-Decentralized Finance: Eine empirische Analyse von Liquidationen auf Aave V3
+## Decentralized Finance: Eine empirische Analyse von Liquidationen auf Aave V3
+
+Dieses Repository enthält den vollständigen Code und die verwendeten Daten zur empirischen Analyse
+der Bachelorarbeit.
 
 
 ## Struktur
