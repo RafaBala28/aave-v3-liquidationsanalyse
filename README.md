@@ -16,8 +16,7 @@ der Bachelorarbeit.
 
 - `data/`  
   On-Chain-Liquidationen und Preisdaten  
-  On-Chain-Daten wurden mit einem
-  eigenentwickelten Analysewerkzeug extrahiert: https://github.com/RafaBala28/DeFi-Observer  
+  On-Chain-Daten wurden mit dem eigenentwickelten Analysewerkzeug *DeFi Observer* extrahiert: https://github.com/RafaBala28/DeFi-Observer  
   
 
 ## Methodik
