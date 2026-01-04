@@ -21,7 +21,7 @@ library(here)
 # 1) BASISPFAD
 ##############################################################
 
-setwd("C:/Users/rafae/Documents/UniBas/Bachelor Arbeit/aave-v3-liquidationsanalyse")
+setwd("")
 
 BASE_DIR <- getwd()
 DATA_DIR <- "data"
@@ -249,3 +249,4 @@ modelsummary(
 ##############################################################
 # ENDE DES SKRIPTS
 ##############################################################
+
